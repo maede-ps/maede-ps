@@ -6,4 +6,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,github,git,postman,figma,mysql,mongodb)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries :
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,sass,materialui)](https://skillicons.dev)
